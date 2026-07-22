@@ -1,0 +1,41 @@
+# Logs & Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+*.log
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+
+# Node & Dependencies
+node_modules/
+dist/
+build/
+.vite/
+
+# PlantBrain Local Storage & Database
+backend/plantbrain.db
+backend/storage/chroma_db/
+backend/storage/uploads/*.pdf
+backend/storage/uploads/*.txt
+backend/storage/uploads/*.csv
+backend/storage/uploads/*.xlsx
+!backend/storage/uploads/equipment.pdf
+!backend/storage/uploads/High_Pressure_Boiler_Spec.txt
+
+# Local Environment Variables & Secrets
+.env
+backend/.env
+frontend/.env.local
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

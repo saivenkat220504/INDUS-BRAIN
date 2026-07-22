@@ -1,0 +1,142 @@
+[
+  {
+    "entity": "PUMP-A-102",
+    "type": "Equipment ID",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.98
+  },
+  {
+    "entity": "VALV-V-804",
+    "type": "Equipment ID",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.98
+  },
+  {
+    "entity": "TURB-C-301",
+    "type": "Equipment ID",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.98
+  },
+  {
+    "entity": "COMP-K-09",
+    "type": "Equipment ID",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.98
+  },
+  {
+    "entity": "OSHA 1910",
+    "type": "Standards",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "ASME BOILER",
+    "type": "Standards",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "cavitation",
+    "type": "Failure Modes",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "overpressure",
+    "type": "Failure Modes",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "thermal stress",
+    "type": "Failure Modes",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "valve seizure",
+    "type": "Failure Modes",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "PLANT FACILITY #04",
+    "type": "Locations",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "UNIT ALPHA",
+    "type": "Locations",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "Unit Alpha",
+    "type": "Locations",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "Control Room",
+    "type": "Locations",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "Turbine Hall",
+    "type": "Locations",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "2026-07-22",
+    "type": "Dates",
+    "document": "High_Pressure_Boiler_Spec.txt",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "NFPA 70",
+    "type": "Standards",
+    "document": "M_iClean_U_Operating_instructions (1).pdf",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "NFPA 96",
+    "type": "Standards",
+    "document": "M_iClean_U_Operating_instructions (1).pdf",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "leak",
+    "type": "Failure Modes",
+    "document": "M_iClean_U_Operating_instructions (1).pdf",
+    "page": 1,
+    "confidence": 0.95
+  },
+  {
+    "entity": "leakage",
+    "type": "Failure Modes",
+    "document": "M_iClean_U_Operating_instructions (1).pdf",
+    "page": 1,
+    "confidence": 0.95
+  }
+]

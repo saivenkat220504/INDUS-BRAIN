@@ -1,0 +1,19 @@
+PLANT FACILITY #04 - UNIT ALPHA MAINTENANCE PROTOCOL
+Document Date: 2026-07-22
+Author: Lead Plant Engineer Alex Morgan
+
+1. EQUIPMENT SPECIFICATIONS
+- Primary Pump: PUMP-A-102 (Centrifugal High Pressure)
+- Safety Valve: VALV-V-804 (Set point: 18.0 Bar)
+- Steam Turbine: TURB-C-301 (Operating speed: 3600 RPM)
+- Gas Compressor: COMP-K-09
+
+2. REGULATORY & COMPLIANCE STANDARDS
+All operating pressure testing must comply with OSHA 1910 General Industry standards and ASME Boiler Code specifications.
+
+3. FAILURE MODES & RISK PREVENTION
+- PUMP-A-102: Susceptible to cavitation when inlet pressure drops below 1.2 Bar.
+- VALV-V-804: Inspect for overpressure thermal stress and valve seizure during steam purge.
+
+4. LOCATION & BAY ASSIGNMENT
+Equipment located in Unit Alpha, Control Room Bay 4, Turbine Hall.

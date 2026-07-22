@@ -1,0 +1,32 @@
+[
+  {
+    "rule": "OSHA Pressure Safety Valve Inspection Audit",
+    "keywords": ["VALV-V-804", "OSHA 1910", "overpressure", "pressure relief"],
+    "applicable_doc_types": ["PDF", "TXT", "Compliance", "Maintenance"],
+    "severity": "HIGH"
+  },
+  {
+    "rule": "ASME Boiler Hydrostatic Test Specification",
+    "keywords": ["ASME Boiler", "PUMP-A-102", "hydrostatic", "18.0 Bar"],
+    "applicable_doc_types": ["PDF", "TXT", "Maintenance"],
+    "severity": "HIGH"
+  },
+  {
+    "rule": "ISO 55001 Plant Asset Maintenance Protocol",
+    "keywords": ["TURB-C-301", "Alex Morgan", "ISO 55001", "maintenance"],
+    "applicable_doc_types": ["PDF", "TXT", "Diagram"],
+    "severity": "MEDIUM"
+  },
+  {
+    "rule": "EPA Gas Compressor Emission Boundary Check",
+    "keywords": ["COMP-K-09", "EPA", "emissions", "gas compressor"],
+    "applicable_doc_types": ["PDF", "TXT", "Diagram"],
+    "severity": "MEDIUM"
+  },
+  {
+    "rule": "NFPA Fire Safety & Thermal Stress Audit",
+    "keywords": ["NFPA", "thermal stress", "Control Room", "Turbine Hall"],
+    "applicable_doc_types": ["PDF", "TXT", "Compliance"],
+    "severity": "LOW"
+  }
+]
